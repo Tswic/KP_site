@@ -127,9 +127,9 @@ st.markdown("Nous n'avons pas de réseaux car nous sommes mystérieux... mais no
 # 📁 Ressources
 st.markdown("<div class='section-title'>📁 Les ressources utilisées</div>", unsafe_allow_html=True)
 resources = [
-    "[🔗 Blender](https://www.blender.org/download/)",
-    "[🔗 Unity](https://www.unity.com)",
-    "[🔗 Musique : Veridis Quo – Daft Punk](https://www.youtube.com/watch?v=TCd6PfxOy0Y)"
+    "🔗 [Blender](https://www.blender.org/download/)",
+    "🔗 [Unity](https://www.unity.com)",
+    "🔗 [Musique : Veridis Quo – Daft Punk](https://www.youtube.com/watch?v=TCd6PfxOy0Y)"
 ]
 for r in resources:
     st.markdown(r)
