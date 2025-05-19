@@ -97,4 +97,13 @@ st.write("---")
 st.write("Nous n'avons pas de réseaux car nous sommes mystérieux mais nous sommes des élèves de la promo 2029 de l'EPITA !")
 
 st.write("---")
+st.header("📁 **les ressources utilisées**")
+dos = {
+    "[Blender](https://www.blender.org/download/)",
+    "[Unity](https://www.unity.com)"
+}
+
+for i in dos:
+    sr.markdown(i)
+
 st.markdown("© 2025 Kangaroo Planet Team. Tous droits réservés.")
