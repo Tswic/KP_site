@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide"
 )
 
-logo = Image.open("logo.jpg")  # Chemin correct et fichier existant
+logo = "logo.jpg"  # Chemin correct et fichier existant
 screenshot_1 = "kang.png"
 screenshot_2 = "lune.png"
 
