@@ -140,8 +140,8 @@ st.markdown("<br><hr>", unsafe_allow_html=True)
 st.header("👥 **L'équipe Kangaroo Planet**")
 st.markdown("""
 - 🟩 **Eliott - L’Énergique** : Sportif discipliné, il a transformé ses efforts en force mentale. A remplacé Windows par Linux au lycée.
-- 🌸 **Nicolas - L’Inventif** : Passionné de Minecraft et de création de mondes. Expérimenté en modération de serveurs Discord.
-- 🔴 **Hélios - Le Codeur** : Programme depuis la 6e, spécialisé en développement web. Il assure toute la structure technique du jeu.
+- 🟪 **Nicolas - L’Inventif** : Passionné de Minecraft et de création de mondes. Expérimenté en modération de serveurs Discord.
+- 🟥 **Hélios - Le Codeur** : Programme depuis la 6e, spécialisé en développement web. Il assure toute la structure technique du jeu.
 - 🟧 **Tanguy - Le Stratège** : Amoureux des maths et des échecs, il a exploré la programmation d’IA pour mieux dominer le plateau.
 """)
 
