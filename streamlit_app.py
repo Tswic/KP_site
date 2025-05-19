@@ -104,6 +104,6 @@ dos = {
 }
 
 for i in dos:
-    sr.markdown(i)
+    st.markdown(i)
 
 st.markdown("© 2025 Kangaroo Planet Team. Tous droits réservés.")
