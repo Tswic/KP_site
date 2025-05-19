@@ -136,4 +136,23 @@ for r in resources:
 
 # Footer
 st.markdown("<br><hr>", unsafe_allow_html=True)
+
+st.write("---")
+st.header("👥 **L'équipe Kangaroo Planet**")
+st.markdown("""
+- 🟩 **Eliott - L’Énergique** : Sportif discipliné, il a transformé ses efforts en force mentale. A remplacé Windows par Linux au lycée.
+- 🌸 **Nicolas - L’Inventif** : Passionné de Minecraft et de création de mondes. Expérimenté en modération de serveurs Discord.
+- 🔴 **Hélios - Le Codeur** : Programme depuis la 6e, spécialisé en développement web. Il assure toute la structure technique du jeu.
+- 🟧 **Tanguy - Le Stratège** : Amoureux des maths et des échecs, il a exploré la programmation d’IA pour mieux dominer le plateau.
+""")
+
+st.subheader("📧 **Contacts de l'équipe**")
+st.markdown("""
+- Tanguy : [tanguy.de-jerphanion@epita.fr](mailto:tanguy.de-jerphanion@epita.fr)
+- Hélios : [helios.bringuet@epita.fr](mailto:helios.bringuet@epita.fr)
+- Eliott : [eliott.caquelot@epita.fr](mailto:eliott.caquelot@epita.fr)
+- Nicolas : [nicolas.delisle@epita.fr](mailto:nicolas.delisle@epita.fr)
+""")
+st.write("---")
+
 st.markdown("<center>© 2025 Kangaroo Planet Team. Tous droits réservés.</center>", unsafe_allow_html=True)
