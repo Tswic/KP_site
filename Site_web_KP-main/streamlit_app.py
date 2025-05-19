@@ -7,14 +7,14 @@ st.set_page_config(
     layout="wide"
 )
 
-logo = Image.Open("logo.jpg")
+llogo = Image.open("logo.jpg")  # Chemin correct et fichier existant
 screenshot_1 = "kang.png"
 screenshot_2 = "lune.png"
 
 # Titre principal et introduction
 col1, col2 = st.columns([2, 3])
 with col1:
-    st.image(logo, use_container_width=True)
+   st.image(logo, use_container_width=True)
 with col2:
     st.markdown("""
     <div style='font-size: 39px;'>  <!-- Adjust font-size as needed -->
