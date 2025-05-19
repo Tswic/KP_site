@@ -132,7 +132,7 @@ resources = [
     "[🔗 Musique : Veridis Quo – Daft Punk](https://www.youtube.com/watch?v=TCd6PfxOy0Y)"
 ]
 for r in resources:
-    st.markdown(f"<div class='resource-link'>{r}</div>", unsafe_allow_html=True)
+    st.markdown(r)
 
 # Footer
 st.markdown("<br><hr>", unsafe_allow_html=True)
