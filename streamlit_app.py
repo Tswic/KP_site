@@ -119,11 +119,6 @@ with open("rapport_soutenance.pdf", "rb") as file:
         file_name="rapport_soutenance.pdf", 
         mime="application/pdf"
     )
-
-# ℹ️ Infos supplémentaires
-st.markdown("<div class='section-title'>🕵️‍♂️ Qui sommes-nous ?</div>", unsafe_allow_html=True)
-st.markdown("Nous n'avons pas de réseaux car nous sommes mystérieux... mais nous sommes des élèves de la promo 2029 de l'EPITA !")
-
 # 📁 Ressources
 st.markdown("<div class='section-title'>📁 Les ressources utilisées</div>", unsafe_allow_html=True)
 resources = [
