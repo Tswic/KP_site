@@ -100,7 +100,8 @@ st.write("---")
 st.header("📁 **les ressources utilisées**")
 dos = {
     "[Blender](https://www.blender.org/download/)",
-    "[Unity](https://www.unity.com)"
+    "[Unity](https://www.unity.com)",
+    "[Pour la musique Veridis Quo](https://www.youtube.com/watch?v=TCd6PfxOy0Y)"
 }
 
 for i in dos:
