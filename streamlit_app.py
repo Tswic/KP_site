@@ -137,7 +137,6 @@ for r in resources:
 # Footer
 st.markdown("<br><hr>", unsafe_allow_html=True)
 
-st.write("---")
 st.header("👥 **L'équipe Kangaroo Planet**")
 st.markdown("""
 - 🟩 **Eliott - L’Énergique** : Sportif discipliné, il a transformé ses efforts en force mentale. A remplacé Windows par Linux au lycée.
