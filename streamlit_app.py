@@ -123,7 +123,7 @@ st.markdown("<div class='section-title'>📁 Les ressources utilisées</div>", u
 resources = [
     "🔗 [Blender](https://www.blender.org/download/)",
     "🔗 [Unity](https://www.unity.com)",
-    "🔗 [Musique : Veridis Quo – Daft Punk](https://www.youtube.com/watch?v=TCd6PfxOy0Y)"
+    "🔗 Musique : [Veridis Quo – Daft Punk](https://www.youtube.com/watch?v=TCd6PfxOy0Y)"
 ]
 for r in resources:
     st.markdown(r)
